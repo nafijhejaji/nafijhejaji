@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafijhejaji&label=Profile%20views&color=0e75b6&style=flat" alt="nafijhejaji" /> </p>
 
-- 🌱 I’m currently learning **JAVA**
+<p align="left"> <a href="https://twitter.com/nafijhejaji" target="blank"><img src="https://img.shields.io/twitter/follow/nafijhejaji?logo=twitter&style=for-the-badge" alt="nafijhejaji" /></a> </p>
+
+- 🌱 I’m currently learning **java**
 
 - 📫 How to reach me **n4fijhejaji@gmail.com**
 
@@ -18,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafijhejaji&show_icons=true&locale=en&layout=compact" alt="nafijhejaji" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafijhejaji&show_icons=true&locale=en" alt="nafijhejaji" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafijhejaji&" alt="nafijhejaji" /></p>
