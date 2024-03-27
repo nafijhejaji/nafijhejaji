@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nafij Hejaji</h1>
+
+![logo](https://github.com/nafijhejaji/nafijhejaji/blob/main/butterfly.gif)
+![logo](https://github.com/nafijhejaji/nafijhejaji/blob/main/dog.gif)
+<h1 align="center">Hi 👋, I'm Nafij Hejaji</h1>   
 <h3 align="center">A Computer Science and Engineering student from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafijhejaji&label=Profile%20views&color=0e75b6&style=flat" alt="nafijhejaji" /> </p>
