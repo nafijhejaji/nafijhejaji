@@ -43,17 +43,44 @@
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 ## This Week I Spent My Time On
 
-```text
-🕑︎ Time Zone: Dhaka/Bangladesh
+<!--START_WEEKLY_SPENT-->
+name: Update Weekly Time Spent
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # Runs every Sunday at 00:00 UTC
+  workflow_dispatch: # Allows manual triggering
 
-🔥 Editors: 
-No Activity Tracked This Week
-```
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt || true  # If you need dependencies
+
+      - name: Run Update Script
+        run: python update_readme.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update weekly time spent section" || echo "No changes to commit"
+          git push
+
+<!--END_WEEKLY_SPENT-->
+
 
 
  Last Updated on 19/02/2025 18:45:33 UTC
