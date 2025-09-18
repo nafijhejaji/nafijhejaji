@@ -212,20 +212,6 @@
  <!-- <a href="#"><img alt="" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a> -->
 
 
-
-
-
-📊 ## This Week I Spent My Time On
-
-<!--START_WEEKLY_SPENT-->
-<!--END_WEEKLY_SPENT-->
-
-
-
- Last Updated on 19/02/2025 18:45:33 UTC
-<!--END_SECTION:waka-->
-
-
 ---
 
 
@@ -237,8 +223,3 @@
 
 <img src="https://imgur.com/rilHVxA.png"/> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafijhejaji&show_icons=true&locale=en&layout=compact" alt="nafijhejaji" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafijhejaji&show_icons=true&locale=en" alt="nafijhejaji" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafijhejaji&" alt="nafijhejaji" /></p>
