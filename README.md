@@ -207,6 +207,11 @@
   
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nafijhejaji&theme=default&hide_border=false&date_format=j%20M[%20Y]" />
+</p>
+
+
 <br/>
 
  <!-- <a href="#"><img alt="" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a> -->
@@ -226,5 +231,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nafijhejaji&theme=default" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nafijhejaji&theme=default&hide_border=false&date_format=j%20M[%20Y]" />
+</p>
+
 
 
