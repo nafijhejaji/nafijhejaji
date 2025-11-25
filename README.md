@@ -119,6 +119,7 @@
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nafijhejaji" />
+  <img src="https://streak-stats.demolab.com/?user=nafijhejaji&cachebuster=1" />
 </p>
+
 
