@@ -119,5 +119,6 @@
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nafijhejaji&theme=default&hide_border=false&date_format=j%20M[%20Y]" />
+  <img src="https://streak-stats.demolab.com/?user=nafijhejaji" />
 </p>
+
