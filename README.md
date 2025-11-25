@@ -223,3 +223,8 @@
 
 <img src="https://imgur.com/rilHVxA.png"/> 
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nafijhejaji&theme=default" />
+</p>
+
+
